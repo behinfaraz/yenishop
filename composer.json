@@ -1,0 +1,14 @@
+{
+    "name": "behinfaraz/yenishop",
+    "description": "Yeni shop management",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Hossein Behinfaraz",
+            "email": "behinfaraz@yenishop.ir"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
